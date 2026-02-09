@@ -15,6 +15,7 @@
     "tailwindcss": "^4.1.14"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.3.14",
     "wrangler": "^4.42.1"
   }
 }
